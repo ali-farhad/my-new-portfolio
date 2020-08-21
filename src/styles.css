@@ -6,3 +6,7 @@
 
 @tailwind utilities;
 
+
+.card {
+    @apply bg-white rounded-lg mb-3 overflow-hidden shadow-md border-solid border-2;
+}
